@@ -15,7 +15,7 @@
 * KorBertSum: NEWSUM의 1번째 딥러닝 모델: 기사 원문 요약 모델 (학습용)
 * hashtag-classifier: NEWSUM의 2번째 딥러닝 모델: 해시태그 분류 모델 (학습용)
 * newsum: NEWSUM의 딥러닝 모델: 기사 원문 요약 모델과 해시태그 분류 모델 (어플리케이션용)
-* server:
+* server: springBoot 기반 api 서버 
 * front: NEWSUM의 프론트엔트 개발(앱 개발) 코드를 담은 레퍼지토리
 </br>
 
